@@ -1,0 +1,4 @@
+Job3: Setting up server for website
+
+sudo systemctl status docker
+sudo docker run -dit -p 4444:80 rajpal151/mcbc1

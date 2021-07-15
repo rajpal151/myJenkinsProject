@@ -1,0 +1,5 @@
+job1: pull files from github
+
+https://github.com/rajpal151/myJenkinsProject.git	(fetching repository)
+$systemctl status httpd				
+$systemctl status firewalld

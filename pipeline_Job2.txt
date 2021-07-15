@@ -1,0 +1,6 @@
+Job2: setting container image through docker
+
+cd /var/lib/jenkins/workspace/myproject1
+sudo systemctl start docker
+sudo docker login
+sudo docker build -t rajpal151/mcbc1 .
